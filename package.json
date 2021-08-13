@@ -1,0 +1,19 @@
+{
+  "name": "Level0-DoYouKnowMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@replit/database": "^2.0.1",
+    "chalk": "^4.1.0",
+    "parcel": "^2.0.0-beta.2",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
